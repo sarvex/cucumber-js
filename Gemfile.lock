@@ -23,7 +23,7 @@ GEM
       thor (>= 0.14.6)
     guard-jasmine-node (0.0.5)
       guard (>= 0.4)
-    json (1.7.5)
+    json (2.6.3)
     listen (0.5.3)
     rspec (2.11.0)
       rspec-core (~> 2.11.0)
