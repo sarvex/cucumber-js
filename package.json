@@ -81,7 +81,7 @@
     "nopt": "3.0.1",
     "pogo": "0.9.4",
     "underscore": "1.7.0",
-    "underscore.string": "2.3.3",
+    "underscore.string": "3.3.5",
     "walkdir": "0.0.7"
   },
   "devDependencies": {
